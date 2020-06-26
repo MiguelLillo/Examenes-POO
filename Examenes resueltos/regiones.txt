@@ -1,3 +1,0 @@
-malaga,andalucia,1.7
-ciudad real,castilla la mancha,1.85
-cadiz,andalucia,1.72
